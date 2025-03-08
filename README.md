@@ -1,6 +1,14 @@
-# 👋  Hi there, I'm Samyak! 
-🎓 Computer Science Student | VNIT, Nagpur<br>💻 Passionate Coder | Problem Solver | Tech Enthusiast<br><br>🚀 About Me<br>I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in programming and problem-solving. I thrive on tackling new challenges and constantly expanding my technical skills. My passion lies in developing efficient, scalable, and innovative solutions to real-world problems.<br><br>🔹 Always eager to learn, experiment, and build<br>🔹 Interested in Software Development, Algorithms, and System Design<br>🔹 Love working on projects that create an impact<br><br>When I'm not coding, you'll find me:<br>🏸 Playing Badminton & Cricket<br>📖 Reading Books & Exploring new ideas<br><br>📫 Connect with Me<br>💼 LinkedIn : https://www.linkedin.com/in/samyak-borkar-62bbb1324/<br>📩 Email: samyakborkar65@gmail.com<br><br>Check out my projects and contributions on GitHub! 🚀
-
+> # 👋  Hi there, I'm Samyak !
+🎓 Computer Science Student | VNIT, Nagpur<br>💻 Passionate Coder | Problem Solver | Tech Enthusiast
+ ### 🚀 About Me
+I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in programming and problem-solving. I thrive on tackling new challenges and constantly expanding my technical skills. My passion lies in developing efficient, scalable, and innovative solutions to real-world problems.
+<br><br>🔹 Always eager to learn, experiment, and build<br>
+🔹 Interested in Software Development, Algorithms, and System Design
+<br>🔹 Love working on projects that create an impact<br><br>When I'm not coding, you'll find me:<br>🏸 Playing Badminton & Cricket<br>📖 Reading Books & Exploring new ideas
+### 📫 Connect with Me
+💼 LinkedIn : https://www.linkedin.com/in/samyak-borkar-62bbb1324/<br>
+📩 Email: samyakborkar65@gmail.com<br>
+#### Check out my projects and contributions on GitHub! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samyak01779) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samyak_787) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-borkar-62bbb1324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyakborkar65@gmail.com) 
