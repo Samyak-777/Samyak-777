@@ -1,10 +1,13 @@
 > # 👋  Hi there, I'm Samyak !
-🎓 Computer Science Student | VNIT, Nagpur<br>💻 Passionate Coder | Problem Solver | Tech Enthusiast
+🎓 Computer Science Student | VNIT, Nagpur 📍<br>💻 Passionate Coder | Problem Solver 💡| Tech Enthusiast 🚀
  ### 🚀 About Me
-I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in programming and problem-solving. I thrive on tackling new challenges and constantly expanding my technical skills. My passion lies in developing efficient, scalable, and innovative solutions to real-world problems.
-<br><br>🔹 Always eager to learn, experiment, and build<br>
-🔹 Interested in Software Development, Algorithms, and System Design
-<br>🔹 Love working on projects that create an impact<br><br>When I'm not coding, you'll find me:<br>🏸 Playing Badminton & Cricket<br>📖 Reading Books & Exploring new ideas
+I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in programming and problem-solving 🧩. I thrive on tackling new challenges 🎯 and constantly expanding my technical skills. My passion lies in developing efficient, scalable, and innovative solutions ✨ to real-world problems.
+<br><br>🔹 Always eager to learn, experiment, build, and grow 🌱<br>
+🔹 Interested in Software Development, Algorithms, and System Design ⚙️
+<br>🔹 Love working on projects that create an impact 🌟<br><br>
+### When I'm not coding, you'll find me:<br>
+- 🏸 Playing Badminton & Cricket 🏏
+- 📖 Reading Books & Exploring new ideas 💡
 ### 📫 Connect with Me
 💼 LinkedIn : https://www.linkedin.com/in/samyak-borkar-62bbb1324/<br>
 📩 Email: samyakborkar65@gmail.com<br>
