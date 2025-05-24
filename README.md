@@ -18,7 +18,7 @@ I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in prog
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-<!--
+
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Samyak-777&count_private=true&include_all_commits=true&theme=dark&show_icons=true&hide_border=false)
 <br/>
@@ -27,7 +27,5 @@ I'm a Computer Science student at VNIT, Nagpur, with a strong foundation in prog
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Samyak-777&icon=2&color=2)](https://visitcount.itsvg.in)
-
--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
